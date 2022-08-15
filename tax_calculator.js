@@ -15,7 +15,7 @@ function amount(cost){
     return cost
   }
 }
-// let b = amount(1200000);
-// console.log(b)
+let b = amount(500001);
+console.log(b)
 
 module.exports = amount
